@@ -35,5 +35,12 @@ It uses ```A* search algorithm```
 Convert currency
 
 
+## Snake
+
+## Sorting algorithm visualize
+
+## Sudoku
+
+## Tetris
 
 
