@@ -27,3 +27,13 @@ It uses ```A* search algorithm```
 
 ```right click``` on targets to move it , or delete block (wall)
 
+
+
+
+## Currency converter
+
+Convert currency
+
+
+
+
