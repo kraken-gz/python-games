@@ -11,5 +11,5 @@ Just run: ```python3 <game_name> ```
 ## Space Shooter
 W,A,S,D to move up,left,down,right
 space to shoot
-
+ 
 
