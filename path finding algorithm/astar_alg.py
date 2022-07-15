@@ -87,7 +87,7 @@ class Spot:
 	def __lt__(self, other):
 		return False
 
-
+#heuristic distance
 def h(p1, p2):
 	x1, y1 = p1
 	x2, y2 = p2
