@@ -1,7 +1,6 @@
 # python-games
 some small python games and non-games
 
-If you want to see, how it works , just check source code of any of these
 
 # How to use these games
 
